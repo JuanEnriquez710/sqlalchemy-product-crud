@@ -1,0 +1,72 @@
+
+=== CRUD DE PRODUCTOS (SQLAlchemy) ===
+1. Crear producto
+2. Listar productos
+3. Buscar producto por ID
+4. Actualizar producto
+5. Eliminar producto
+0. Salir
+Elige una opción: Nombre: Precio: Stock [0 por defecto]: ID=1 | Nombre=Teclado | Precio=89.90 | Stock=5
+
+=== CRUD DE PRODUCTOS (SQLAlchemy) ===
+1. Crear producto
+2. Listar productos
+3. Buscar producto por ID
+4. Actualizar producto
+5. Eliminar producto
+0. Salir
+Elige una opción: ID=1 | Nombre=Teclado | Precio=89.90 | Stock=5
+
+=== CRUD DE PRODUCTOS (SQLAlchemy) ===
+1. Crear producto
+2. Listar productos
+3. Buscar producto por ID
+4. Actualizar producto
+5. Eliminar producto
+0. Salir
+Elige una opción: ID del producto: ID=1 | Nombre=Teclado | Precio=89.90 | Stock=5
+
+=== CRUD DE PRODUCTOS (SQLAlchemy) ===
+1. Crear producto
+2. Listar productos
+3. Buscar producto por ID
+4. Actualizar producto
+5. Eliminar producto
+0. Salir
+Elige una opción: ID a actualizar: Nuevo nombre (Enter para conservar): Nuevo precio (Enter para conservar): Nuevo stock (Enter para conservar): ID=1 | Nombre=Teclado Mecánico | Precio=129.50 | Stock=8
+
+=== CRUD DE PRODUCTOS (SQLAlchemy) ===
+1. Crear producto
+2. Listar productos
+3. Buscar producto por ID
+4. Actualizar producto
+5. Eliminar producto
+0. Salir
+Elige una opción: ID=1 | Nombre=Teclado Mecánico | Precio=129.50 | Stock=8
+
+=== CRUD DE PRODUCTOS (SQLAlchemy) ===
+1. Crear producto
+2. Listar productos
+3. Buscar producto por ID
+4. Actualizar producto
+5. Eliminar producto
+0. Salir
+Elige una opción: ID a eliminar: Producto eliminado.
+
+=== CRUD DE PRODUCTOS (SQLAlchemy) ===
+1. Crear producto
+2. Listar productos
+3. Buscar producto por ID
+4. Actualizar producto
+5. Eliminar producto
+0. Salir
+Elige una opción: No hay productos registrados.
+
+=== CRUD DE PRODUCTOS (SQLAlchemy) ===
+1. Crear producto
+2. Listar productos
+3. Buscar producto por ID
+4. Actualizar producto
+5. Eliminar producto
+0. Salir
+Elige una opción: Hasta luego.
